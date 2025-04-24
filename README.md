@@ -17,3 +17,5 @@ This project uses the UCI Heart Disease dataset to predict the likelihood of hea
 ```bash
 pip install -r requirements.txt
 jupyter notebook heart_disease_rf.ipynb
+
+## 🔍 ML Model
