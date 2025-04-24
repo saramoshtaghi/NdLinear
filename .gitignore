@@ -21,3 +21,11 @@ Thumbs.db
 
 # Ignore dataset backups
 *.csv~
+
+# Ignore configuration files
+*.cfg
+# Ignore temporary files
+*.tmp
+# Ignore Python egg files
+*.egg
+# Ignore distribution files         
