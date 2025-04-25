@@ -1,7 +1,3 @@
-Absolutely! Here's your updated `README.md` with your name added as the project author:
-
----
-
 # ❤️ Heart Disease Prediction with Random Forest
 
 This project uses the UCI Heart Disease dataset to predict the likelihood of heart disease in a patient using **Random Forest Classification**. It’s a great example of applying machine learning to a real-world healthcare problem, providing both explainability (feature importance) and strong performance.
