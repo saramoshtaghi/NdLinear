@@ -24,8 +24,13 @@ Thumbs.db
 
 # Ignore configuration files
 *.cfg
+
 # Ignore temporary files
 *.tmp
+
 # Ignore Python egg files
 *.egg
-# Ignore distribution files         
+
+# Ignore distribution files  
+*.egg-info/
+
