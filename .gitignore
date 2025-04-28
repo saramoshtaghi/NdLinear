@@ -34,3 +34,5 @@ Thumbs.db
 # Ignore distribution files  
 *.egg-info/
 
+# Ignore Jupyter Notebook metadata
+*.ipynb_checkpoints
